@@ -1,5 +1,5 @@
 # Sentiment Analysis of Movie Reviews
-Final project for the course *DD1418 Language Engineering with Introduction to Machine Learning* at KTH. Graded A, with full points on all criteria. Arvid Hedbäck and Lalo Saleh, December 17, 2023
+Final project for the course *DD1418 Language Engineering with Introduction to Machine Learning* at KTH. Graded A, with full points on all criteria. Arvid Hedbäck and Lalo Saleh, December 17, 2023.
 
 ## Description
 Movie reviews from IMDb (Internet Movie Database) have been classified as 1, 2, 3, 4 or 5, with 1 being the most negative sentiment. For this, the original reviews with a rating of 1-10 have been reclassified as 1-5 as follows: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10] => [1, 1, 2, 2, 3, 3, 4, 4, 5, 5].
